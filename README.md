@@ -1,8 +1,8 @@
-# CF_Python_Instacart
-In this project, the data of Instacart, an online grocery app was analyzed using Python. The goal of the analysis was to perform an initial data exploratory analysis to derive insights and suggest strategies for better segmentation of Instacart shoppers.
+# Malaria_cells_image_detection
+This is a binary classification of parasitized(infected cells) and uninfected cells. I used Convolutional Neural Networks to detect parasitized cells from uninfected cells. I furthermore defined the performance of the algorithm using a confusion matrix.
 
-The process involved the preparation process of the data, like cleaning, wrangling, combining, enriching the datasets with new variables, to finally communicate the results through visualizations.
+The process involved the loading of the data in a splitted training and validation datasets, defining the model architecture, model summary, training and validating the model, visualizing the learning curve, confusion matrix to define performance, Interpretation.
 
-- More details about the project can be found in the project brief in the [Project Management](https://github.com/Lionel1801/CF_-Python_Instacart/blob/main/01%20Project%20Management/A4_Data_Project%20Brief.pdf) folder.
-- The final report including visualization are found in the Sent to client [Sent to client](https://github.com/Lionel1801/CF_-Python_Instacart/tree/main/05%20Sent%20to%20client) folder.
-- The [Scripts](https://github.com/Lionel1801/CF_-Python_Instacart/tree/main/03%20Scripts) folder contains all the Jupyter Notebooks.
+- More details about the project motivation can be found in the Motivation [Motivation](Motivation.pdf) folder.
+- The final project including visualization are found in the Case Study [Case Study](Malaria cells image detection.pdf) folder.
+- The Scripts folder contains the code written in Spyder environment.
